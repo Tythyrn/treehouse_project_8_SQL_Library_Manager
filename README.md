@@ -1,4 +1,4 @@
-# treehouse_project_8_SQL_Library_Manager
+# Treehouse Project 8 SQL Library Manager
  Project 8 of Treehouse FSJS Techdegree Program
 
 # Motivation
